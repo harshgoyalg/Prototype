@@ -1,0 +1,117 @@
+.home_internships {background-image:url('/cached_uploads/banner-images/home/home_internships-1920.png');}@media (max-width: 575px) {.home_internships {background-image:url('/cached_uploads/banner-images/home/home_internships-575.png');}}
+.home_internships-banner-container .primary_text {display: flex;align-items: center;font-size: 32px;line-height: 1.25;font-weight: 700;color: #212121;}
+.home_internships-banner-container .primary_text .offer {background: #ffae00;border-radius: 3px;color: #fff;font-size: 18px;font-weight: 600;padding: 4px 16px;margin-left: 12px;position: relative;bottom: 2px;}
+.home_internships-banner-container .secondary_text {font-size: 24px;line-height: 1.33;font-weight: 600;color: #666;}
+.home_internships-banner-container .features_container {margin-top: 24px;font-size: 18px;font-weight: 500;color: #666;}
+.home_internships-banner-container .features_container .feature {display: flex;align-items: center;color: #484848;}
+.home_internships-banner-container .features_container .feature img {width: 32px;height: 32px;margin-right: 8px;}
+.home_internships-banner-container .features_container .feature + .feature {margin-top: 12px;}
+.home_internships-banner-container .cta_container {margin-top: auto;}
+.home_internships-banner-container .cta_container .link {text-decoration: none;color: #008bdc;cursor: pointer;font-size: 16px;font-weight: 600;line-height: 1.25;}
+.home_internships-banner-container .cta_container .link:hover, .home_internships-banner-container .cta_container .link:focus {color: #006bc2;text-decoration: none;outline: none;}
+.home_internships-banner-container .cta_container .link.focus-visible {outline: thin dotted;outline: 5px auto -webkit-focus-ring-color;outline-offset: -2px;}
+.home_internships-banner-container .cta_container .link:not([href]) {color: #008bdc;}
+.home_internships-banner-container .cta_container .link:not([href]):hover, .home_internships-banner-container .cta_container .link:not([href]):focus {color: #006bc2;text-decoration: none;outline: none;}
+.home_internships-banner-container .cta_container .link:not([href]).focus-visible {outline: thin dotted;outline: 5px auto -webkit-focus-ring-color;outline-offset: -2px;}
+.home_internships-banner-container .cta_container .link [class^="ic-"], .home_internships-banner-container .cta_container .link [class*=" ic-"] {vertical-align: middle;}
+@media (max-width: 991px) {.home_internships-banner-container .primary_text {font-size: 24px;line-height: 1.33;font-weight: 600;}
+	.home_internships-banner-container .primary_text .offer {font-weight: 500;line-height: 1.2;font-size: 10px;padding: 2px 4px;margin-left: 8px;}
+	.home_internships-banner-container .secondary_text {font-weight: 500;margin-top: 12px;font-size: 16px;line-height: 1.5;color: #484848;}}
+@media (max-width: 575px) {.home_internships-banner-container .primary_text {font-size: 18px;}
+	.home_internships-banner-container .secondary_text {font-weight: 400;font-size: 14px;margin-top: 4px;}
+	.home_internships-banner-container .cta_container .link {font-size: 14px;}}.college_specific_slab1 {background-image:url('/cached_uploads/banner-images/home/college_specific_slab1-1920-66980a.png');}@media (max-width: 1255px) {.college_specific_slab1 {background-image:url('/cached_uploads/banner-images/home/college_specific_slab1-1255-5e1d71.png');}}
+@media (max-width: 991px) {.college_specific_slab1 {background-image:url('/cached_uploads/banner-images/home/college_specific_slab1-991-b4490b.png');}}
+@media (max-width: 575px) {.college_specific_slab1 {background-image:url('/cached_uploads/banner-images/home/college_specific_slab1-575-a32f92.png');}}
+@media (max-width: 320px) {.college_specific_slab1 {background-image:url('/cached_uploads/banner-images/home/college_specific_slab1-320-15ab7d.png');}}
+.college_specific_slab1-banner-container .timer {font-size: 16px;font-size: inherit;line-height: 1.5;display: flex;align-items: center;justify-content: center;}
+.college_specific_slab1-banner-container .timer .icon {margin-right: 4px;font-size: inherit;}
+.college_specific_slab1-banner-container .timer #banner_countdown_215 {color: #042944;}
+.college_specific_slab1-banner-container .timer .timer_215 {color: #042944;}
+.college_specific_slab1-banner-container .timer {position: absolute;left: 3.2%;top: 40%;}
+@media (max-width: 991px) {.college_specific_slab1-banner-container .timer {position: absolute;left: 2.5%;top: 40%;}}
+@media (max-width: 575px) {.college_specific_slab1-banner-container .timer {position: absolute;left: 3.9%;top: 40%;}}
+@media (max-width: 320px) {.college_specific_slab1-banner-container .timer {position: absolute;left: 15px;top: 50%;}}
+.college_specific_slab1-banner-container .timer {font-size: 16px;}
+.college_specific_slab1-banner-container .timer.icon {font-size: 16px;}
+@media (max-width: 991px) {.college_specific_slab1-banner-container .timer {font-size: 1.5vw;}
+	.college_specific_slab1-banner-container .timer.icon {font-size: 1.5vw;}}
+@media (max-width: 575px) {.college_specific_slab1-banner-container .timer {font-size: 2.5vw;}
+	.college_specific_slab1-banner-container .timer.icon {font-size: 2.5vw;}}
+@media (max-width: 320px) {.college_specific_slab1-banner-container .timer {font-size: 3.4vw;}
+	.college_specific_slab1-banner-container .timer.icon {font-size: 3.4vw;}}.ac_16_wfh {background-image:url('/cached_uploads/banner-images/home/ac_16_wfh-1920-859da1.png');}@media (max-width: 1255px) {.ac_16_wfh {background-image:url('/cached_uploads/banner-images/home/ac_16_wfh-1255-2ca4c9.png');}}
+@media (max-width: 991px) {.ac_16_wfh {background-image:url('/cached_uploads/banner-images/home/ac_16_wfh-991-b17038.png');}}
+@media (max-width: 575px) {.ac_16_wfh {background-image:url('/cached_uploads/banner-images/home/ac_16_wfh-575-b2f62b.png');}}
+@media (max-width: 320px) {.ac_16_wfh {background-image:url('/cached_uploads/banner-images/home/ac_16_wfh-320-60019e.png');}}
+.ac_16_wfh-banner-container .timer {font-size: 16px;font-size: inherit;line-height: 1.5;display: flex;align-items: center;justify-content: center;}
+.ac_16_wfh-banner-container .timer .icon {margin-right: 4px;font-size: inherit;}
+.ac_16_wfh-banner-container .timer #banner_countdown_225 {color: #000;}
+.ac_16_wfh-banner-container .timer .timer_225 {color: #000;}.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-1920-50455a.png');}@media (max-width: 1255px) {.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-1255-663aa2.png');}}
+@media (max-width: 991px) {.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-991-f6afa9.png');}}
+@media (max-width: 767px) {.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-767-1d1b54.png');}}
+@media (max-width: 575px) {.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-575-8e39ab.png');}}
+@media (max-width: 320px) {.covid_task_force {background-image:url('/cached_uploads/banner-images/home/covid_task_force-320-b32543.png');}}
+.covid_task_force-banner-container .timer {font-size: 16px;font-size: inherit;line-height: 1.5;display: flex;align-items: center;justify-content: center;}
+.covid_task_force-banner-container .timer .icon {margin-right: 4px;font-size: inherit;}
+.covid_task_force-banner-container .timer #banner_countdown_218 {color: #000;}
+.covid_task_force-banner-container .timer .timer_218 {color: #000;}.data_science_specialization {background-image:url('/cached_uploads/banner-images/home/data_science_specialization-1920-69af3d.png');}@media (max-width: 1255px) {.data_science_specialization {background-image:url('/cached_uploads/banner-images/home/data_science_specialization-1255-1f37fb.png');}}
+@media (max-width: 991px) {.data_science_specialization {background-image:url('/cached_uploads/banner-images/home/data_science_specialization-991-c12111.png');}}
+@media (max-width: 575px) {.data_science_specialization {background-image:url('/cached_uploads/banner-images/home/data_science_specialization-575-26da91.png');}}
+@media (max-width: 320px) {.data_science_specialization {background-image:url('/cached_uploads/banner-images/home/data_science_specialization-320-14b61c.png');}}
+.data_science_specialization-banner-container .timer {font-size: 16px;font-size: inherit;line-height: 1.5;display: flex;align-items: center;justify-content: center;}
+.data_science_specialization-banner-container .timer .icon {margin-right: 4px;font-size: inherit;}
+.data_science_specialization-banner-container .timer #banner_countdown_212 {color: #000;}
+.data_science_specialization-banner-container .timer .timer_212 {color: #000;}.home_jobs {background-image:url('/cached_uploads/banner-images/home/home_jobs-1920.png');}@media (max-width: 575px) {.home_jobs {background-image:url('/cached_uploads/banner-images/home/home_jobs-575.png');}}
+.home_jobs-banner-container .small_heading {margin-bottom: 8px;}
+.home_jobs-banner-container .primary_text {display: flex;align-items: center;font-size: 44px;line-height: 52px;font-weight: 700;margin-bottom: 16px;}
+.home_jobs-banner-container .primary_text .offer {background: #ffae00;border-radius: 4px;color: #fff;font-size: 18px;font-weight: 500;padding: 2px 8px;margin-left: 8px;line-height: 24px;}
+.home_jobs-banner-container .features_container {margin-top: 16px;font-weight: 500;font-size: 18px;line-height: 24px;}
+.home_jobs-banner-container .features_container .feature {display: flex;align-items: center;}
+.home_jobs-banner-container .features_container .feature img {width: 32px;height: 32px;margin-right: 4px;}
+.home_jobs-banner-container .features_container .feature + .feature {margin-top: 4px;}
+.home_jobs-banner-container .features_container .third {display: none;}
+.home_jobs-banner-container .cta_container {margin-top: auto;}
+.home_jobs-banner-container .cta_container .link {text-decoration: none;color: #fff;cursor: pointer;font-size: 16px;font-weight: 600;line-height: 20px;}
+.home_jobs-banner-container .cta_container .link:hover, .home_jobs-banner-container .cta_container .link:focus {color: #fff;text-decoration: none;outline: none;}
+.home_jobs-banner-container .cta_container .link.focus-visible {outline: thin dotted;outline: 5px auto -webkit-focus-ring-color;outline-offset: -2px;}
+.home_jobs-banner-container .cta_container .link:not([href]) {color: #fff;}
+.home_jobs-banner-container .cta_container .link:not([href]):hover, .home_jobs-banner-container .cta_container .link:not([href]):focus {color: #fff;text-decoration: none;outline: none;}
+.home_jobs-banner-container .cta_container .link:not([href]).focus-visible {outline: thin dotted;outline: 5px auto -webkit-focus-ring-color;outline-offset: -2px;}
+.home_jobs-banner-container .cta_container .link [class^="ic-"], .home_jobs-banner-container .cta_container .link [class*=" ic-"] {vertical-align: middle;}
+@media (max-width: 1255px) {.home_jobs-banner-container .primary_text {font-size: 32px;line-height: 40px;margin-bottom: 12px;}}
+@media (max-width: 991px) {.home_jobs-banner-container .small_heading {font-size: 16px;line-height: 20px;}
+	.home_jobs-banner-container .secondary_text {display: none;}
+	.home_jobs-banner-container .features_container .second {display: none;}
+	.home_jobs-banner-container .features_container .third {display: flex;}
+	.home_jobs-banner-container .features_container {margin-top: 0px;}
+	.home_jobs-banner-container .features_container .feature img {width: 24px;height: 24px;}
+	.home_jobs-banner-container .features_container .feature + .feature {margin-top: 8px;}}
+@media (max-width: 767px) {.home_jobs-banner-container .small_heading {font-weight: 500;font-size: 14px;line-height: 16px;margin-bottom: 4px;}
+	.home_jobs-banner-container .primary_text {margin-bottom: 8px;}
+	.home_jobs-banner-container .primary_text .offer {padding: 2px 6px;font-size: 12px;line-height: 16px;margin-left: 4px;}
+	.home_jobs-banner-container .features_container {font-size: 16px;}
+	.home_jobs-banner-container .features_container .feature + .feature {margin-top: 4px;}}
+@media (max-width: 575px) {.home_jobs-banner-container .primary_text {font-weight: 600;font-size: 18px;line-height: 24px;margin-bottom: 6px;}
+	.home_jobs-banner-container .primary_text .offer {padding: 1px 6px;}
+	.home_jobs-banner-container .cta_container .link {font-size: 14px;line-height: 16px;}
+	.home_jobs-banner-container .small_heading {font-size: 12px;line-height: 16px;margin-bottom: 2px;}
+	.home_jobs-banner-container .features_container {font-size: 14px;line-height: 16px;}
+	.home_jobs-banner-container .features_container .feature img {width: 20px;height: 20px;}
+	.home_jobs-banner-container .features_container .feature + .feature {margin-top: 2px;}}
+@media (max-width: 360px) {.home_jobs-banner-container .features_container {font-size: 12px;}}
+.home_jobs-banner-container .small_heading, .home_jobs-banner-container .primary_text, .home_jobs-banner-container .secondary_text, .home_jobs-banner-container .features_container .feature {color: #fff;}.isp23_new {background-image:url('/cached_uploads/banner-images/home/isp23_new-1920.png');}@media (max-width: 575px) {.isp23_new {background-image:url('/cached_uploads/banner-images/home/isp23_new-575.png');}}
+.isp23_new-banner-container .text {font-size: 18px;line-height: 1.33;font-weight: 600;margin-top: 24px;}
+.isp23_new-banner-container .image {max-width: 464px;width: 33vw;}
+.isp23_new-banner-container .image img {width: 100%;}
+.isp23_new-banner-container .cta_container {margin-top: auto;}
+.isp23_new-banner-container .cta_container .link {text-decoration: none;cursor: pointer;font-size: 16px;font-weight: 600;line-height: 1.25;}
+@media (max-width: 575px) {.isp23_new-banner-container .text {font-size: 12px;line-height: 1.4;margin-top: 8px;max-width: 158px;}
+	.isp23_new-banner-container .image {width: 39vw;}
+	.isp23_new-banner-container .cta_container .link {font-size: 14px;}}
+.isp23_new-banner-container .image {border-bottom: 1px solid #230084;padding-bottom: 12px;max-width: 632px;width: 40vw;}
+.isp23_new-banner-container .text {margin-top: 12px;font-size: 18px;}
+@media (max-width: 991px) {.isp23_new-banner-container .image {padding-bottom: 16px;max-width: 450px;}
+	.isp23_new-banner-container .text {font-size: 16px;margin-top: 16px;}}
+@media (max-width: 767px) {.isp23_new-banner-container .image {padding-bottom: 8px;max-width: 244px;}
+	.isp23_new-banner-container .text {font-size: 14px;margin-top: 8px;max-width: 245px;}}
+@media (max-width: 575px) {.isp23_new-banner-container .image {padding-bottom: 4px;max-width: 208px;}
+	.isp23_new-banner-container .text {font-size: 10px;margin-top: 4px;max-width: 174px;}}
